@@ -389,6 +389,9 @@ margin-top: 50px;
     left: 50%;
     margin-left: -190px;
   }
+  .mob-margin {
+    margin-top: 320px;
+  }
   .desc-btn:checked + label,
   .desc-btn:not(:checked) + label {
     margin-right: 15px;
